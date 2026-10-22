@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2100" viewBox="0 0 1440 2100" role="img" aria-labelledby="title desc">
+  <title id="title">Wireframe BloomHouse</title>
+  <desc id="desc">Wireframe halaman BloomHouse yang menampilkan Home, Galeri, Tentang, Kontak, sidebar testimoni, dan footer.</desc>
+  <defs>
+    <style>
+      text { font-family: Arial, sans-serif; fill: #173b2a; }
+      .label { font-size: 20px; font-weight: 700; }
+      .sub { font-size: 14px; fill: #557060; }
+      .frame { fill: #fff; stroke: #8da696; stroke-width: 2; }
+      .image { fill: #e8eee7; stroke: #aab9ad; stroke-width: 1.5; }
+      .accent { fill: #ffebe6; stroke: #ff6347; stroke-width: 1.5; }
+    </style>
+  </defs>
+  <rect width="1440" height="2100" fill="#f7f8f4"/>
+  <rect x="80" y="40" width="1280" height="84" rx="16" class="frame"/>
+  <text x="115" y="91" class="label">LOGO · BloomHouse</text><text x="900" y="91" class="sub">Home　 Galeri　 Tentang　 Kontak</text>
+  <rect x="80" y="150" width="1280" height="490" rx="32" class="frame"/>
+  <rect x="735" y="150" width="625" height="490" rx="32" class="image"/>
+  <text x="145" y="245" class="sub">HERO · GAMBAR BUNGA + TANAMAN</text><text x="145" y="335" class="label">Bloom House</text><text x="145" y="375" class="sub">Mekar untuk Setiap Momen</text><rect x="145" y="420" width="205" height="54" rx="27" class="accent"/><text x="180" y="454" class="sub">Jelajahi koleksi</text>
+  <text x="80" y="710" class="label">KARTU RINGKASAN</text>
+  <rect x="80" y="735" width="405" height="270" rx="20" class="frame"/><rect x="95" y="750" width="375" height="135" rx="14" class="image"/><text x="110" y="925" class="label">Galeri</text><text x="110" y="955" class="sub">Deskripsi dan tautan section</text>
+  <rect x="518" y="735" width="405" height="270" rx="20" class="frame"/><rect x="533" y="750" width="375" height="135" rx="14" class="image"/><text x="548" y="925" class="label">Tentang</text><text x="548" y="955" class="sub">Deskripsi dan tautan section</text>
+  <rect x="956" y="735" width="404" height="270" rx="20" class="frame"/><rect x="971" y="750" width="374" height="135" rx="14" class="image"/><text x="986" y="925" class="label">Kontak</text><text x="986" y="955" class="sub">Deskripsi dan tautan section</text>
+  <rect x="80" y="1050" width="880" height="620" rx="24" class="frame"/><text x="110" y="1100" class="label">GALERI · BUKET BUNGA &amp; TANAMAN HIAS</text>
+  <rect x="110" y="1140" width="250" height="190" rx="14" class="image"/><rect x="390" y="1140" width="250" height="190" rx="14" class="image"/><rect x="670" y="1140" width="250" height="190" rx="14" class="image"/>
+  <rect x="110" y="1380" width="250" height="190" rx="14" class="image"/><rect x="390" y="1380" width="250" height="190" rx="14" class="image"/><rect x="670" y="1380" width="250" height="190" rx="14" class="image"/>
+  <rect x="1000" y="1050" width="360" height="620" rx="24" class="accent"/><text x="1030" y="1100" class="label">SIDEBAR TESTIMONI</text><text x="1030" y="1145" class="sub">Placeholder yang ditandai</text><rect x="1030" y="1180" width="300" height="130" rx="14" class="frame"/><rect x="1030" y="1330" width="300" height="130" rx="14" class="frame"/><rect x="1030" y="1480" width="300" height="130" rx="14" class="frame"/>
+  <rect x="80" y="1715" width="880" height="200" rx="24" class="frame"/><text x="110" y="1770" class="label">TENTANG · PROFIL + VIDEO YOUTUBE</text><rect x="590" y="1750" width="330" height="130" rx="14" class="image"/>
+  <rect x="80" y="1950" width="1280" height="115" rx="20" class="frame"/><text x="110" y="2015" class="label">KONTAK · INFORMASI + NEWSLETTER + PETA</text>
+</svg>
